@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @epizexuius
 - 👀 I’m interested in Blockchain development, Game design, de-fi and game-fi.
-- 🌱 I’m currently learning solidity/brownie and ethereum development. Also other areas of Blockchain development.
+- 🌱 I’m currently learning solidity and ethereum development. Also other areas of Blockchain development.
 - 💞️ I’m looking to collaborate on games, de-fi apps, game-fi apps. Looking to learn about new things as much as i can ^-^.
 - 📫 How to reach me - markericanthony@gmail.com.
 
